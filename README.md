@@ -12,3 +12,4 @@ Obstacle sizes:
 
 ## Keys
 - B: Jump
+- Shake: Restart
